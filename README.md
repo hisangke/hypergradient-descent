@@ -12,7 +12,7 @@ In gradient-based optimization, one optimizes an objective function by using its
 ## Installation
 
 ```bash
-pip install git+https://github.com/gbaydin/hypergradient-descent.git
+pip install git+https://github.com/hisangke/hypergradient-descent.git
 ```
 
 ## How can I use it for my work?
